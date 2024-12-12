@@ -16,7 +16,7 @@ CSS: Estilização e animação do menu e submenu.
 ## Estrutura do Código
 
 ### HTML
-A estrutura do HTML é composta por uma lista não ordenada <ul>, onde os itens <li> representam as diferentes opções de menu. O submenu é colocado dentro de outra lista, que é revelada quando o usuário passa o mouse sobre o item de menu correspondente.
+A estrutura do HTML é composta por uma lista não ordenada, onde os itens representam as diferentes opções de menu. O submenu é colocado dentro de outra lista, que é revelada quando o usuário passa o mouse sobre o item de menu correspondente.
 
 ### CSS
 O CSS define a aparência do menu e do submenu. Abaixo estão os pontos principais de estilo:
